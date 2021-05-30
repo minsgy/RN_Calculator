@@ -12,6 +12,7 @@ React Native 기반의 계산기 프로그램
 
 ## Tech Stack
 - React Native
+- ES6
 - Expo
 
 ## 적용한 기능 명세서
